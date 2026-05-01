@@ -3,8 +3,6 @@ created with 2 input type logics state ![Proteus Simulation](./Simulation)
 
 # K-Maps Table
 
----
-
 # Truth Table
 | D | C | B | A | a | b | c | d | e | f | g | Q |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -25,7 +23,6 @@ created with 2 input type logics state ![Proteus Simulation](./Simulation)
 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 1 | 1 | E |
 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | F |
 
----
 
 # Boolean Expressions
 * $Eq(a) = (\bar{C}\bar{A}) + (\bar{D}B) + A + (D\bar{B}) + \bar{A}$
