@@ -1,7 +1,8 @@
-# BCH-DECODER-TO-7-SEGMENT-CATHODA-ON-PROTEUS-8
-created with 2 input type logics state ![Proteus Simulation](./Simulation)
 
-# K-Maps Table
+
+
+# K-Maps Method
+![image](./image/K-Maps.jpg)
 
 # Truth Table
 | D | C | B | A | a | b | c | d | e | f | g | Q |
@@ -23,6 +24,11 @@ created with 2 input type logics state ![Proteus Simulation](./Simulation)
 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 1 | 1 | E |
 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | F |
 
+# Analysis 7 Segment & Truth Table
+![image](./image/analysis.png)
+
+# Truth Table
+![image](./image/truthtable.jpg)
 
 # Boolean Expressions
 * $Eq(a) = (\bar{C}\bar{A}) + (\bar{D}B) + A + (D\bar{B}) + \bar{A}$
