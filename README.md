@@ -1,4 +1,4 @@
-# BCF-DECODER-TO-7-SEGMENT-CATHODA-ON-PROTEUS-8
+# BCH-DECODER-TO-7-SEGMENT-CATHODA-ON-PROTEUS-8
 created with 2 input type logics state ![Proteus Simulation](./Simulation)
 
 # K-Maps Table
